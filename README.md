@@ -51,7 +51,7 @@ The built files will be available in the `dist` directory.
 
 ## 🖥️ Preview
 
-Visit the live website: [https://navneeth-portfolio.netlify.app/]
+Visit the live website: [https://navneethportfolio.netlify.app/]
 
 ## 📝 License
 
